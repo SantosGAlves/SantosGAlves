@@ -47,20 +47,14 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 **LibrasFlow**  
-Tradutor de LIBRAS em tempo real utilizando visão computacional e machine learning  
-
-🔹 **Sistema de Cadastro com Azure**  
-Aplicação com Streamlit + Azure Blob Storage + MySQL  
-
-🔹 **Automação com n8n**  
-Fluxos automatizados para integração entre serviços  
-
-## 🚀 Projetos em Destaque
 
 🔹 **[LibrasFlow 🤟](https://github.com/SantosGAlves/Projeto-IA)** Tradutor de LIBRAS em tempo real utilizando visão computacional e machine learning.
 
 🔹 **[Sistema de Cadastro com Azure](https://github.com/SantosGAlves/cadastro-produtos-streamlit-azure)** Aplicação com Streamlit + Azure Blob Storage + MySQL.
+
+🔹 **Automação com n8n**  
+Fluxos automatizados para integração entre serviços  
+
 
 ---
 

@@ -21,6 +21,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SantosGAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Gustavo" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosGAlves&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
 ---
 
 ## 🧠 Tecnologias e Ferramentas

@@ -36,8 +36,6 @@
 [![n8n](https://img.shields.io/badge/n8n-1A0433?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosGAlves&layout=compact&theme=radical" />
-
 ☁️ Em aprendizado: AWS | APIs | Arquitetura de Sistemas
 
 ---

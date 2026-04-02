@@ -17,7 +17,9 @@
 
 ## 📊 Estatísticas
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosGAlves&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantosGAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Gustavo" />
+</p>
 
 ---
 

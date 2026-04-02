@@ -15,12 +15,18 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantosGAlves&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantosGAlves&theme=radical" alt="Streak Stats" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosGAlves&layout=compact&theme=radical&hide_progress=false" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=SantosGAlves&theme=radical" alt="Linguagens mais usadas" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantosGAlves&theme=radical" alt="Detalhes do Perfil" />
+</p>
+
 
 ---
 

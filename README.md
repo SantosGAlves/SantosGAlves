@@ -21,7 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantosGAlves&theme=radical" alt="Streak Stats" />
 </p>
 
-  
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantosGAlves&theme=radical" alt="Detalhes do Perfil" />
 </p>
 

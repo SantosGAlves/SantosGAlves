@@ -21,6 +21,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantosGAlves&theme=tokyonight" alt="Streak Stats" />
 </p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=SantosGAlves&theme=radical" />
+
 ---
 
 ## 🧠 Tecnologias e Ferramentas

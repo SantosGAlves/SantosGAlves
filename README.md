@@ -21,7 +21,7 @@ Desenvolvedor de IA aplicada e automação em São José dos Campos/SP.
 Construo agentes de IA que consultam bancos de dados, automações com n8n e o back-end que liga tudo aos sistemas das empresas.
 
 - **Agora:** estagiário de Automação e Inovação na **Gaudium**, criando automações, integrações via API e soluções com IA.
-- **Antes:** na **Hunt Sales**, propus e entreguei um agente de IA com sistema de gestão da empresa. A entrega reverteu o risco de cancelamento de um cliente e virou um novo tipo de produto.
+- **Antes:** na **Hunt Sales**, propus e entreguei sozinho o primeiro agente de IA com sistema de gestão da empresa. A entrega reverteu o risco de cancelamento de um cliente e virou um novo tipo de produto.
 - **Pesquisa:** no TCC **LibrasFlow** (reconhecimento do alfabeto de Libras em tempo real), encontrei e corrigi um vazamento de dados no meu próprio modelo. O trabalho virou um artigo científico em preparação.
 - **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas, IFSP Jacareí (conclusão em dez/2026).
 
@@ -69,16 +69,7 @@ Construo agentes de IA que consultam bancos de dados, automações com n8n e o b
 ### Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantosGAlves&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0E0F12&title_color=7EE08F&icon_color=7EE08F&text_color=EDEDF0&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosGAlves&layout=compact&hide_border=true&bg_color=0E0F12&title_color=7EE08F&text_color=EDEDF0&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SantosGAlves&hide_border=true&background=0E0F12&ring=7EE08F&fire=7EE08F&currStreakLabel=7EE08F&sideLabels=EDEDF0&dates=9A9DA6&currStreakNum=EDEDF0&sideNums=EDEDF0&stroke=26282E&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantosGAlves&bg_color=0E0F12&color=9A9DA6&line=7EE08F&point=EDEDF0&area=true&area_color=7EE08F&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20m%C3%AAs" alt="Gráfico de contribuições" />
+  <img src="https://raw.githubusercontent.com/SantosGAlves/SantosGAlves/output/snake-dark.svg" alt="Gráfico de contribuições animado" />
 </p>
 
 ---

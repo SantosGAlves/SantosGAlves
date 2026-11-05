@@ -25,13 +25,13 @@ Construo agentes de IA que consultam bancos de dados, automações com n8n e o b
 - **Pesquisa:** no TCC **LibrasFlow** (reconhecimento do alfabeto de Libras em tempo real), encontrei e corrigi um vazamento de dados no meu próprio modelo. O trabalho virou um artigo científico em preparação.
 - **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas, IFSP Jacareí (conclusão em dez/2026).
 
-<sub>🇺🇸 Applied AI & automation developer: AI agents connected to real data, n8n automations and back-end. Portfolio with interactive demos at <a href="https://santosgalves.online/en">santosgalves.online/en</a>.</sub>
+<sub>🇺🇸 Applied AI & automation developer: AI agents connected to real data, n8n automations and back-end. Portfolio with interactive demos at <a href="https://santosgalves.online/en?utm_source=github">santosgalves.online/en</a>.</sub>
 
 ---
 
 ### Projetos em destaque
 
-> Todos têm estudo de caso e **demo interativa** no [portfólio](https://santosgalves.online).
+> Todos têm estudo de caso e **demo interativa** no [portfólio](https://santosgalves.online/?utm_source=github).
 
 | Projeto | O que é | Stack |
 |---|---|---|
@@ -75,5 +75,5 @@ Construo agentes de IA que consultam bancos de dados, automações com n8n e o b
 ---
 
 <p align="center">
-  <sub>Projetos com demos interativas em <a href="https://santosgalves.online"><b>santosgalves.online</b></a></sub>
+  <sub>Projetos com demos interativas em <a href="https://santosgalves.online/?utm_source=github"><b>santosgalves.online</b></a></sub>
 </p>

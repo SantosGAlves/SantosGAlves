@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://santosgalves.online"><img src="https://img.shields.io/badge/Portfólio-santosgalves.online-7EE08F?style=for-the-badge&labelColor=15171B" alt="Portfólio" /></a>
+  <a href="https://santosgalves.online/?utm_source=github"><img src="https://img.shields.io/badge/Portfólio-santosgalves.online-7EE08F?style=for-the-badge&labelColor=15171B" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/gustavo-alves-dos-santos-9aa713256/"><img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Alves-EDEDF0?style=for-the-badge&logo=linkedin&logoColor=EDEDF0&labelColor=15171B&color=15171B" alt="LinkedIn" /></a>
   <a href="mailto:gustasp49@gmail.com"><img src="https://img.shields.io/badge/E--mail-gustasp49%40gmail.com-EDEDF0?style=for-the-badge&logo=gmail&logoColor=EDEDF0&labelColor=15171B&color=15171B" alt="E-mail" /></a>
 </p>

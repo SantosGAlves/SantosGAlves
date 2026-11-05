@@ -21,7 +21,7 @@ Desenvolvedor de IA aplicada e automação em São José dos Campos/SP.
 Construo agentes de IA que consultam bancos de dados, automações com n8n e o back-end que liga tudo aos sistemas das empresas.
 
 - **Agora:** estagiário de Automação e Inovação na **Gaudium**, criando automações, integrações via API e soluções com IA.
-- **Antes:** na **Hunt Sales**, propus e entreguei sozinho o primeiro agente de IA com sistema de gestão da empresa. A entrega reverteu o risco de cancelamento de um cliente e virou um novo tipo de produto.
+- **Antes:** na **Hunt Sales**, propus e entreguei um agente de IA com sistema de gestão da empresa. A entrega reverteu o risco de cancelamento de um cliente e virou um novo tipo de produto.
 - **Pesquisa:** no TCC **LibrasFlow** (reconhecimento do alfabeto de Libras em tempo real), encontrei e corrigi um vazamento de dados no meu próprio modelo. O trabalho virou um artigo científico em preparação.
 - **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas, IFSP Jacareí (conclusão em dez/2026).
 
